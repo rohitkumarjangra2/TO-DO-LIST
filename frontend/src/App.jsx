@@ -164,7 +164,7 @@ function App() {
         <div className="fallback-banner" style={{ background: 'rgba(16,185,129,0.06)', borderColor: 'rgba(16,185,129,0.2)', color: '#34d399' }}>
           <Wifi size={16} />
           <span>
-            <strong>Connected to MongoDB Database:</strong> Synchronized perfectly with the live Express server API!
+            <strong>Connected to MongoDB Database:</strong> Synchronized perfectly with live Express server API!
           </span>
         </div>
       )}
